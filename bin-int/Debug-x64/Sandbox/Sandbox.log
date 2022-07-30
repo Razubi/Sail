@@ -1,3 +1,2 @@
-﻿  Application.cpp
-D:\ai\SailEngine\Sail\Sandbox\src\Application.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  SandboxApp.cpp
   Sandbox.vcxproj -> D:\ai\SailEngine\Sail\bin\Debug-x64\Sandbox\Sandbox.exe
